@@ -7,3 +7,4 @@ make an instance of class Movie():
 
 Keeping class definitions in one file (media.py) and call definitions in (entertainmentCenter.py). 
 
+A class can have both data and methods
