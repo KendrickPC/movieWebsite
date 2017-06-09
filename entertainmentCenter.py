@@ -1,3 +1,4 @@
+import fresh_tomatoes
 import media
 
 toy_story = media.Movie("Toy Story",
@@ -38,3 +39,6 @@ grave_of_the_fireflies = media.Movie("Grave of the Fireflies",
 						"http://static.rogerebert.com/uploads/movie/movie_poster/grave-of-the-fireflies-1988/large_bwVhmPpydv8P7mWfrmL3XVw0MV5.jpg",
 						"https://www.youtube.com/watch?v=4vPeTSRd580"
 	)
+
+movies = [toy_story, spirited_away, howls_moving_castle, princess_mononoke, my_neighbor_totoro, grave_of_the_fireflies]
+fresh_tomatoes.open_movies_page(movies)
