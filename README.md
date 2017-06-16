@@ -1,11 +1,11 @@
 <!-- Instructions: -->
-
   1. Open entertainmentCenter.py in IDLE (python).
   2. Under the run tab, click "run module"
-
 <!-- Enjoy NBA Highlights! -->
-
 Notes for myself:
+  entertainmentCenter code passes the http://pep8online.com/ check. 
+
+
 <!-- README.md -->
 * Google style guide prefers class names to begin with a capital letter.
 http://google.github.io/styleguide/pyguide.html
