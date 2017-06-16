@@ -1,9 +1,11 @@
 <!-- Instructions: -->
-  1. Open entertainmentCenter.py in IDLE (python).
-  2. Under the run tab, click "run module"
-<!-- Enjoy NBA Highlights! -->
+  1. Open entertainmentCenter.py in IDLE (python program).
+  2. Under the run tab, click "run module".  A page should open up with
+  nba highlights for you to enjoy.
+<!-- Enjoy NBA Finals Highlights! -->
+
 Notes for myself:
-  entertainmentCenter code passes the http://pep8online.com/ check. 
+  entertainmentCenter code passes the http://pep8online.com/ check.
 
 
 <!-- README.md -->
@@ -38,4 +40,5 @@ Movie images are the following size:
 width: 220px;
 height: 342px;
 
-Load the desired images onto the server and pull from the server instead of a CDN/embed method
+Load the desired images onto the server and pull from the server instead
+of a CDN/embed method
